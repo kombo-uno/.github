@@ -5,7 +5,7 @@
 
 ### Konfig CMS
 [getkonfig.com](https://getkonfig.com/)<br/>
-Headless CMS coming *soon*
+Headless CMS — Coming *soon*
 
 ### svgfix
 [svgfix.com](https://www.svgfix.com/)<br/>
