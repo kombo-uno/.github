@@ -5,7 +5,7 @@ Design and tech team thriving since 2016. We're the makers of cutting-edge solut
 ## Building:
 
 ### Konfig CMS
-  Headless CMS coming *soon*
+Headless CMS coming *soon*<br/>
 [getkonfig.com](https://getkonfig.com/)
 
 ### svgfix
