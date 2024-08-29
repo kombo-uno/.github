@@ -9,5 +9,5 @@ Headless CMS coming *soon*<br/>
 [getkonfig.com](https://getkonfig.com/)
 
 ### svgfix
-  Your favorite SVG optimizer
+Your favorite SVG optimizer<br/>
 [svgfix.com](https://www.svgfix.com/)
