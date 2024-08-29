@@ -1,7 +1,7 @@
 # KOMBO
 ### Design and tech team thriving since 2016. We're the makers of cutting-edge solutions, tailored specifically for those luminous rectangles that dominate our digital world.
 
-## WE ARE BUILDING
+## Building
 
 ### Konfig CMS
 [getkonfig.com](https://getkonfig.com/)<br/>
@@ -11,7 +11,7 @@ Headless CMS coming *soon*
 [svgfix.com](https://www.svgfix.com/)<br/>
 Your favorite SVG optimizer
 
-## TEAM
+## Team
 
 [Timm Sedlaczek](https://github.com/timmsedlaczek/)<br/>
 Full-Stack Developer<br/>
