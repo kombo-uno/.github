@@ -14,7 +14,7 @@ Your favorite SVG optimizer<br/>
 ## TEAM
 
 [Timm Sedlaczek](https://github.com/timmsedlaczek/)<br/>
-Full-Stack Developer<br/><br/>
+Full-Stack Developer<br/>
 
 [Dirk Lach](https://github.com/dirklach)<br/>
 Designer and Developer
