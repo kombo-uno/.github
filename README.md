@@ -3,7 +3,7 @@
 
 ## BUILDING
 
-### Konfig CMS
+#### Konfig CMS
 Headless CMS coming *soon*<br/>
 [getkonfig.com](https://getkonfig.com/)
 
@@ -11,7 +11,7 @@ Headless CMS coming *soon*<br/>
 Your favorite SVG optimizer<br/>
 [svgfix.com](https://www.svgfix.com/)
 
-## TEAM
+### TEAM
 
 [Timm Sedlaczek](https://github.com/timmsedlaczek/)
 [Dirk Lach](https://github.com/dirklach)
