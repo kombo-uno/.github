@@ -5,7 +5,7 @@ Design and tech team thriving since 2016. We're the makers of cutting-edge solut
 ## Makers of:
 
 ### Konfig CMS
-[getkonfig.com](https://getkonfig.com/)
+<a href="https://getkonfig.com/" target="_blank">getkonfig.com</a>
 
 ### svgfix
 [svgfix.com](https://www.svgfix.com/)
