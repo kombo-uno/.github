@@ -4,12 +4,12 @@
 ## WE ARE BUILDING
 
 ### Konfig CMS
-Headless CMS coming *soon*<br/>
-[getkonfig.com](https://getkonfig.com/)
+[getkonfig.com](https://getkonfig.com/)<br/>
+Headless CMS coming *soon*
 
 ### svgfix
-Your favorite SVG optimizer<br/>
-[svgfix.com](https://www.svgfix.com/)
+[svgfix.com](https://www.svgfix.com/)<br/>
+Your favorite SVG optimizer
 
 ## TEAM
 
